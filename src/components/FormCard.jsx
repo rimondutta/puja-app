@@ -11,7 +11,7 @@ const FormCard = ({
 }) => {
   const buttonText = loading
     ? "খোঁজা হচ্ছে... একটু দাঁড়ান ⏳"
-    : "পূজায় হাত ধরে ঘুরার জন্য গার্লফ্রেন্ড খুঁজুন 💥";
+    : "পূজায় হাত ধরে ঘুরার জন্য গার্লফ্রেন্ড খুঁজুন";
 
   return (
     <div className="w-full max-w-md p-6 sm:p-8 bg-white/95 backdrop-blur-sm rounded-2xl shadow-2xl border border-slate-200 text-slate-900 mb-8">
